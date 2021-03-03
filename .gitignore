@@ -1,0 +1,6 @@
+.env.*
+!.env.prod
+build
+logfile
+node_modules
+yarn-error.log
